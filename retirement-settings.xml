@@ -1,0 +1,31 @@
+<!--     
+    # https://www.geeksforgeeks.org/reading-and-writing-xml-files-in-python/ 
+    # pip install beautifulsoup4
+    # pip install lxml
+-->
+<settings>
+    <setting no='1' goal = '1000000' interest = '0.11' startingBalance = '1000' yearlyDeposit= '1000' years = 'n/a'/>
+    <setting no='2' goal = '1000000' interest = '0.09' startingBalance = '2000' yearlyDeposit= '2000' years = 'n/a'/>
+    <setting no='3' goal = '1000000' interest = '0.07' startingBalance = '2000' yearlyDeposit= '4000' years = 'n/a'/>
+    <setting no='4' goal = '1000000' interest = '0.04' startingBalance = '2000' yearlyDeposit= '5000' years = 'n/a'/>
+    <setting no='5' goal = '1000000' interest = '0.08' startingBalance = '2000' yearlyDeposit= '5000' years = 'n/a'/>
+    <setting no='6' goal = '1000000' interest = '0.06' startingBalance = '2000' yearlyDeposit= '2000' years = 'n/a'/>
+    <setting no='7' goal = '1000000' interest = '0.12' startingBalance = '2000' yearlyDeposit= '3000' years = 'n/a'/>
+    <setting no='8' goal = '1000000' interest = '0.11' startingBalance = '2000' yearlyDeposit= '3000' years = 'n/a'/>
+    <setting no='9' goal = '1000000' interest = '0.07' startingBalance = '2000' yearlyDeposit= '4000' years = 'n/a'/>
+    <setting no='10' goal = '1000000' interest = '0.11' startingBalance = '2000' yearlyDeposit= '1000' years = 'n/a'/>
+    <setting no='11' goal = '1000000' interest = '0.04' startingBalance = '2000' yearlyDeposit= '1000' years = 'n/a'/>
+    <setting no='12' goal = '1000000' interest = '0.11' startingBalance = '2000' yearlyDeposit= '2000' years = 'n/a'/>
+    <setting no='13' goal = '1000000' interest = '0.06' startingBalance = '2000' yearlyDeposit= '1000' years = 'n/a'/>
+    <setting no='14' goal = 'n/a' interest = '0.1' startingBalance = '1000' yearlyDeposit= '1000' years = '30'/>
+    <setting no='15' goal = 'n/a' interest = '0.05' startingBalance = '1000' yearlyDeposit= '2000' years = '30'/>
+    <setting no='16' goal = 'n/a' interest = '0.02' startingBalance = '1000' yearlyDeposit= '4000' years = '20'/>
+    <setting no='17' goal = 'n/a' interest = '0.12' startingBalance = '1000' yearlyDeposit= '5000' years = '20'/>
+    <setting no='18' goal = 'n/a' interest = '0.11' startingBalance = '1000' yearlyDeposit= '5000' years = '30'/>
+    <setting no='19' goal = 'n/a' interest = '0.1' startingBalance = '1000' yearlyDeposit= '2000' years = '30'/>
+    <setting no='20' goal = 'n/a' interest = '0.04' startingBalance = '1000' yearlyDeposit= '3000' years = '30'/>
+    <setting no='21' goal = 'n/a' interest = '0.09' startingBalance = '1000' yearlyDeposit= '3000' years = '30'/>
+    <setting no='22' goal = 'n/a' interest = '0.12' startingBalance = '1000' yearlyDeposit= '4000' years = '30'/>
+    <setting no='23' goal = 'n/a' interest = '0.05' startingBalance = '1000' yearlyDeposit= '1000' years = '30'/>
+    <setting no='24' goal = 'n/a' interest = '0.08' startingBalance = '1000' yearlyDeposit= '1000' years = '30'/>
+</settings>

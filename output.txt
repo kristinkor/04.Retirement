@@ -1,0 +1,32 @@
+30
+----------------------------------------------------------------------------------------------------
+{'no': 1, 'startingBalance': 0, 'yearlyDeposit': 1000, 'interestEarned': 40.0, 'endingBalance': 1040.0}
+{'no': 2, 'startingBalance': 1040.0, 'yearlyDeposit': 1000, 'interestEarned': 81.60000000000001, 'endingBalance': 2121.6}
+{'no': 3, 'startingBalance': 2121.6, 'yearlyDeposit': 1000, 'interestEarned': 124.864, 'endingBalance': 3246.464}
+{'no': 4, 'startingBalance': 3246.464, 'yearlyDeposit': 1000, 'interestEarned': 169.85856, 'endingBalance': 4416.32256}
+{'no': 5, 'startingBalance': 4416.32256, 'yearlyDeposit': 1000, 'interestEarned': 216.6529024, 'endingBalance': 5632.9754624}
+{'no': 6, 'startingBalance': 5632.9754624, 'yearlyDeposit': 1000, 'interestEarned': 265.319018496, 'endingBalance': 6898.294480896}
+{'no': 7, 'startingBalance': 6898.294480896, 'yearlyDeposit': 1000, 'interestEarned': 315.93177923584, 'endingBalance': 8214.22626013184}
+{'no': 8, 'startingBalance': 8214.22626013184, 'yearlyDeposit': 1000, 'interestEarned': 368.5690504052736, 'endingBalance': 9582.795310537113}
+{'no': 9, 'startingBalance': 9582.795310537113, 'yearlyDeposit': 1000, 'interestEarned': 423.3118124214845, 'endingBalance': 11006.107122958598}
+{'no': 10, 'startingBalance': 11006.107122958598, 'yearlyDeposit': 1000, 'interestEarned': 480.2442849183439, 'endingBalance': 12486.351407876942}
+{'no': 11, 'startingBalance': 12486.351407876942, 'yearlyDeposit': 1000, 'interestEarned': 539.4540563150777, 'endingBalance': 14025.80546419202}
+{'no': 12, 'startingBalance': 14025.80546419202, 'yearlyDeposit': 1000, 'interestEarned': 601.0322185676808, 'endingBalance': 15626.837682759702}
+{'no': 13, 'startingBalance': 15626.837682759702, 'yearlyDeposit': 1000, 'interestEarned': 665.0735073103881, 'endingBalance': 17291.911190070092}
+{'no': 14, 'startingBalance': 17291.911190070092, 'yearlyDeposit': 1000, 'interestEarned': 731.6764476028037, 'endingBalance': 19023.587637672896}
+{'no': 15, 'startingBalance': 19023.587637672896, 'yearlyDeposit': 1000, 'interestEarned': 800.9435055069158, 'endingBalance': 20824.53114317981}
+{'no': 16, 'startingBalance': 20824.53114317981, 'yearlyDeposit': 1000, 'interestEarned': 872.9812457271925, 'endingBalance': 22697.512388907002}
+{'no': 17, 'startingBalance': 22697.512388907002, 'yearlyDeposit': 1000, 'interestEarned': 947.9004955562801, 'endingBalance': 24645.412884463283}
+{'no': 18, 'startingBalance': 24645.412884463283, 'yearlyDeposit': 1000, 'interestEarned': 1025.8165153785314, 'endingBalance': 26671.229399841814}
+{'no': 19, 'startingBalance': 26671.229399841814, 'yearlyDeposit': 1000, 'interestEarned': 1106.8491759936726, 'endingBalance': 28778.078575835487}
+{'no': 20, 'startingBalance': 28778.078575835487, 'yearlyDeposit': 1000, 'interestEarned': 1191.1231430334194, 'endingBalance': 30969.201718868906}
+{'no': 21, 'startingBalance': 30969.201718868906, 'yearlyDeposit': 1000, 'interestEarned': 1278.7680687547563, 'endingBalance': 33247.96978762366}
+{'no': 22, 'startingBalance': 33247.96978762366, 'yearlyDeposit': 1000, 'interestEarned': 1369.9187915049465, 'endingBalance': 35617.88857912861}
+{'no': 23, 'startingBalance': 35617.88857912861, 'yearlyDeposit': 1000, 'interestEarned': 1464.7155431651443, 'endingBalance': 38082.60412229375}
+{'no': 24, 'startingBalance': 38082.60412229375, 'yearlyDeposit': 1000, 'interestEarned': 1563.30416489175, 'endingBalance': 40645.9082871855}
+{'no': 25, 'startingBalance': 40645.9082871855, 'yearlyDeposit': 1000, 'interestEarned': 1665.83633148742, 'endingBalance': 43311.74461867292}
+{'no': 26, 'startingBalance': 43311.74461867292, 'yearlyDeposit': 1000, 'interestEarned': 1772.469784746917, 'endingBalance': 46084.214403419835}
+{'no': 27, 'startingBalance': 46084.214403419835, 'yearlyDeposit': 1000, 'interestEarned': 1883.3685761367935, 'endingBalance': 48967.58297955663}
+{'no': 28, 'startingBalance': 48967.58297955663, 'yearlyDeposit': 1000, 'interestEarned': 1998.7033191822652, 'endingBalance': 51966.286298738894}
+{'no': 29, 'startingBalance': 51966.286298738894, 'yearlyDeposit': 1000, 'interestEarned': 2118.651451949556, 'endingBalance': 55084.93775068845}
+{'no': 30, 'startingBalance': 55084.93775068845, 'yearlyDeposit': 1000, 'interestEarned': 2243.397510027538, 'endingBalance': 58328.33526071598}

@@ -1,0 +1,36 @@
+<properties>
+    <property id="101" grossIncome="800" expense="240"  netIncome="560" occupancy="4">109000</property>
+    <property id="102" grossIncome="1500" expense="750"  netIncome="750" occupancy="1">124000</property>
+    <property id="103" grossIncome="1100" expense="660"  netIncome="440" occupancy="2">104000</property>
+    <property id="104" grossIncome="1400" expense="560"  netIncome="840" occupancy="4">124000</property>
+    <property id="105" grossIncome="1200" expense="600"  netIncome="600" occupancy="3">113000</property>
+    <property id="106" grossIncome="1000" expense="600"  netIncome="400" occupancy="1">112000</property>
+    <property id="107" grossIncome="1300" expense="520"  netIncome="780" occupancy="3">125000</property>
+    <property id="108" grossIncome="1300" expense="520"  netIncome="780" occupancy="2">103000</property>
+    <property id="109" grossIncome="1500" expense="450"  netIncome="1050" occupancy="3">123000</property>
+    <property id="110" grossIncome="1500" expense="750"  netIncome="750" occupancy="3">119000</property>
+    <property id="111" grossIncome="800" expense="320"  netIncome="480" occupancy="3">110000</property>
+    <property id="112" grossIncome="800" expense="240"  netIncome="560" occupancy="2">114000</property>
+    <property id="113" grossIncome="1300" expense="390"  netIncome="910" occupancy="1">108000</property>
+    <property id="114" grossIncome="1500" expense="450"  netIncome="1050" occupancy="1">121000</property>
+    <property id="115" grossIncome="1500" expense="750"  netIncome="750" occupancy="3">115000</property>
+    <property id="116" grossIncome="1100" expense="330"  netIncome="770" occupancy="4">101000</property>
+    <property id="117" grossIncome="800" expense="400"  netIncome="400" occupancy="3">115000</property>
+    <property id="118" grossIncome="1500" expense="750"  netIncome="750" occupancy="4">111000</property>
+    <property id="119" grossIncome="1300" expense="390"  netIncome="910" occupancy="2">108000</property>
+    <property id="120" grossIncome="800" expense="320"  netIncome="480" occupancy="4">121000</property>
+    <property id="121" grossIncome="1300" expense="650"  netIncome="650" occupancy="2">107000</property>
+    <property id="122" grossIncome="800" expense="320"  netIncome="480" occupancy="4">117000</property>
+    <property id="123" grossIncome="800" expense="240"  netIncome="560" occupancy="2">110000</property>
+    <property id="124" grossIncome="1400" expense="840"  netIncome="560" occupancy="4">101000</property>
+    <property id="125" grossIncome="900" expense="450"  netIncome="450" occupancy="4">101000</property>
+    <property id="126" grossIncome="1300" expense="780"  netIncome="520" occupancy="2">119000</property>
+    <property id="127" grossIncome="1100" expense="660"  netIncome="440" occupancy="4">109000</property>
+    <property id="128" grossIncome="1400" expense="840"  netIncome="560" occupancy="4">101000</property>
+    <property id="129" grossIncome="1500" expense="900"  netIncome="600" occupancy="2">119000</property>
+    <property id="130" grossIncome="1200" expense="480"  netIncome="720" occupancy="3">119000</property>
+    <property id="131" grossIncome="1300" expense="650"  netIncome="650" occupancy="2">108000</property>
+    <property id="132" grossIncome="1200" expense="600"  netIncome="600" occupancy="2">120000</property>
+    <property id="133" grossIncome="1100" expense="550"  netIncome="550" occupancy="2">118000</property>
+</properties>
+    
